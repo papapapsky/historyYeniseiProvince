@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/historyproject/static/css/main.df3b441c.css",
-    "main.js": "/historyproject/static/js/main.5b4a1fe4.js",
-    "static/js/453.ea37b1a1.chunk.js": "/historyproject/static/js/453.ea37b1a1.chunk.js",
-    "index.html": "/historyproject/index.html",
-    "main.df3b441c.css.map": "/historyproject/static/css/main.df3b441c.css.map",
-    "main.5b4a1fe4.js.map": "/historyproject/static/js/main.5b4a1fe4.js.map",
-    "453.ea37b1a1.chunk.js.map": "/historyproject/static/js/453.ea37b1a1.chunk.js.map"
+    "main.css": "/historyYeniseiProvince/static/css/main.df3b441c.css",
+    "main.js": "/historyYeniseiProvince/static/js/main.412f4dfd.js",
+    "static/js/453.ea37b1a1.chunk.js": "/historyYeniseiProvince/static/js/453.ea37b1a1.chunk.js",
+    "index.html": "/historyYeniseiProvince/index.html",
+    "main.df3b441c.css.map": "/historyYeniseiProvince/static/css/main.df3b441c.css.map",
+    "main.412f4dfd.js.map": "/historyYeniseiProvince/static/js/main.412f4dfd.js.map",
+    "453.ea37b1a1.chunk.js.map": "/historyYeniseiProvince/static/js/453.ea37b1a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df3b441c.css",
-    "static/js/main.5b4a1fe4.js"
+    "static/js/main.412f4dfd.js"
   ]
 }
