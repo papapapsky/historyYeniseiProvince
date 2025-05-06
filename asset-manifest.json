@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/historyproject/static/css/main.df3b441c.css",
+    "main.js": "/historyproject/static/js/main.5b4a1fe4.js",
+    "static/js/453.ea37b1a1.chunk.js": "/historyproject/static/js/453.ea37b1a1.chunk.js",
+    "index.html": "/historyproject/index.html",
+    "main.df3b441c.css.map": "/historyproject/static/css/main.df3b441c.css.map",
+    "main.5b4a1fe4.js.map": "/historyproject/static/js/main.5b4a1fe4.js.map",
+    "453.ea37b1a1.chunk.js.map": "/historyproject/static/js/453.ea37b1a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df3b441c.css",
+    "static/js/main.5b4a1fe4.js"
+  ]
+}
